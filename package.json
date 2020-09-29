@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/FIXDISC/Legal_App/issues"
   },
-  "homepage": "https://github.com/FIXDISC/Legal_App#readme"
+  "homepage": "https://github.com/FIXDISC/Legal_App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
